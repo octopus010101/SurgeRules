@@ -1,6 +1,6 @@
 # Boost
 
-#规则数量:42
+#规则数量:43
 #不支持的规则数量:0
 #已排除的规则数量:0
 
@@ -49,3 +49,4 @@ payload:
   - DOMAIN-SUFFIX,sbeuxy.top
   - DOMAIN-SUFFIX,moxing69.com
   - DOMAIN-SUFFIX,moxing.show
+  - DOMAIN-SUFFIX,footpredator.com
